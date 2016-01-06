@@ -10,15 +10,14 @@ public class BankAccountTester {
         sallyAccount.deposit(4.0);
         System.out.println(sallyAccount.getBalance());
 
-        sallyAccount.withdraw(2.0);
-        System.out.println(sallyAccount.getBalance());
+//        sallyAccount.withdraw(2.0);
+//        System.out.println(sallyAccount.getBalance());
 
 
 //        BankAccount bobAccount = new BankAccount();
-//
 //        sallyAccount.transfer(bobAccount, 2.0);
 //
-//        System.out.println("Transferring 2 from Steve to Bob...");
+//        System.out.println("Transferring 2 from Sally to Bob...");
 //        System.out.println(sallyAccount.getBalance());
 //        System.out.println(bobAccount.getBalance());
     }
