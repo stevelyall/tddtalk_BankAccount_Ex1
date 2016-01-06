@@ -1,7 +1,7 @@
 package ca.stevenlyall;
 
 
-public class BankAccountTester {
+public class Main {
 
     public static void main(String[] args) {
 
